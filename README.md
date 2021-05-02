@@ -9,6 +9,6 @@
   <p align="center">
     Unfollows followed users using webdriver (chromedriver)
     <br />
-    <p>You can build this from source or check out <a href="">releases</a</p>
+    <p align="center">You can build this from source or check out <a href="">releases</a</p>
   </p>
 </p>
