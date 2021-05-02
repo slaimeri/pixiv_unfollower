@@ -1,0 +1,7 @@
+*.spec
+*.exe
+*.ini
+dist/
+build/
+.vscode/
+__pycache__/
